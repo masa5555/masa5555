@@ -1,9 +1,9 @@
 # Links
-- Qiita: https://qiita.com/ms5
+- [Qiita](https://qiita.com/ms5)
 
-- Zenn: https://zenn.dev/ms5
+- [Zenn](https://zenn.dev/ms5)
 
-# OSS contribution:
+# OSS Contributions
 ### Kuma UI 
 https://github.com/kuma-ui/kuma-ui/issues/150
 
