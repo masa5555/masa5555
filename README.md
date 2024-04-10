@@ -2,6 +2,7 @@
 - [Qiita](https://qiita.com/_masa5555)
 
 - [Zenn](https://zenn.dev/ms5)
+- [conpass](https://connpass.com/user/masa5555/)
 
 # OSS Contributions
 ### Kuma UI 
