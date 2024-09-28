@@ -6,6 +6,7 @@
 - [SpeakerDeck](https://speakerdeck.com/masa5555)
 - [connpass](https://connpass.com/user/masa5555/)
 - [LAPRAS](https://lapras.com/public/masa55555)
+- [Linkedin](https://www.linkedin.com/in/%E6%98%8C%E4%B9%9F-%E6%A0%B9%E6%9C%AC-3ab438190/)
 
 # Hackathon 実績
 - 2022/7 技育CAMP vol.5 (2022) 優秀賞
