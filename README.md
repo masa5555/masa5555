@@ -14,9 +14,5 @@
 - 2024/8 [SPAJAM 2024 第一回予選 優秀賞(同率2位)](https://www.mcf.or.jp/temp/spajam/mcf_release_20240813spajam.pdf) 
 
 # OSS contributions
-### Kuma UI 
-https://github.com/kuma-ui/kuma-ui/issues/150
-
-### サバイバルTypeScript
-  
-https://github.com/yytypescript/book/pull/30
+- Kuma UI  https://github.com/kuma-ui/kuma-ui/issues/150
+- サバイバルTypeScript https://github.com/yytypescript/book/pull/30
