@@ -17,3 +17,9 @@
 # OSS contributions
 - Kuma UI  https://github.com/kuma-ui/kuma-ui/issues/150
 - サバイバルTypeScript https://github.com/yytypescript/book/pull/30
+
+# 会社のブログ
+- [成果に向かう開発文化の醸成の取り組み](https://blog.howtelevision.co.jp/entry/2024/12/01/000000)
+- [新卒エンジニアがGitHub Copilot Business導入に挑戦した話とそこから学んだこと](https://blog.howtelevision.co.jp/entry/2023/11/17/135851)
+- [フロントエンドのlinter/formatterをxoに統一し、ルールの議論から解放される](https://blog.howtelevision.co.jp/entry/2023/12/02/153945)
+- [リプレイスにトランクベース開発を導入する課題とシンプルな解決策](https://blog.howtelevision.co.jp/entry/2024/02/02/184003)
