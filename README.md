@@ -15,7 +15,7 @@
 - 2024/11 [NRIハッカソン 2024](https://bitconnect.nri.co.jp/2024/) 優秀賞(鉾田賞)
 
 # 個人開発したプロダクト
-後日追加
+- [エンジニア向け厳選フィードアプリ](https://www.solomaker.dev/products/3ff75fc3-64c9-4aaa-a1cd-f45af81eb133)
 
 # OSS contributions
 - Kuma UI  https://github.com/kuma-ui/kuma-ui/issues/150
