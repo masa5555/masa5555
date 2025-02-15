@@ -1,5 +1,8 @@
 名前: 根本昌也
 
+AI活用など難易度の高い案件(要件定義〜PoC実装)を相談可能です。
+TwitterのDM、またはメール(masa57887@gmail.com)へご連絡お願いします。
+
 # Links
 - [Qiita](https://qiita.com/_masa5555)
 - [Zenn](https://zenn.dev/ms5)
